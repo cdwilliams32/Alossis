@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T19:11:45.960Z" agent="5.0 (Windows)" etag="RGq0S5rpN9SWCzpn_sh4" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-09T21:46:31.595Z" agent="5.0 (Windows)" etag="ppoOJs8sFZiDJIPWpH3E" version="17.4.1" type="github">
   <diagram id="suJAjwYkq9y4BxcR5b9c" name="Page-1">
-    <mxGraphModel dx="-1128" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1365" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="79dwMIcLpbFR8tdssObi-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdnb.artstation.com/p/assets/images/images/018/443/809/large/ricardo-herrera-concepto-cabellero-negro-dragon-avatar.jpg;" vertex="1" parent="1">
           <mxGeometry x="3025.77" y="10" width="219.23" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="79dwMIcLpbFR8tdssObi-12" value="&lt;ul&gt;&lt;li&gt;Human Vampire&lt;/li&gt;&lt;li&gt;6ft tall&lt;/li&gt;&lt;li&gt;170 Pounds&lt;/li&gt;&lt;li&gt;Black Haired&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79dwMIcLpbFR8tdssObi-12" value="&lt;ul&gt;&lt;li&gt;Dragonborn&lt;br&gt;&lt;/li&gt;&lt;li&gt;6ft tall&lt;/li&gt;&lt;li&gt;170 Pounds&lt;/li&gt;&lt;li&gt;Black Haired&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2705" y="10" width="305" height="300" as="geometry" />
         </mxCell>
       </root>
