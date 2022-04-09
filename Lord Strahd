@@ -1,35 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T19:02:16.271Z" agent="5.0 (Windows)" etag="vk2wCGBKOek35DSfjt8s" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-09T19:11:45.960Z" agent="5.0 (Windows)" etag="RGq0S5rpN9SWCzpn_sh4" version="17.4.1" type="github">
   <diagram id="suJAjwYkq9y4BxcR5b9c" name="Page-1">
     <mxGraphModel dx="-1128" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="79dwMIcLpbFR8tdssObi-1" value="Lord Strahd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2915" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="79dwMIcLpbFR8tdssObi-1" value="&lt;font style=&quot;font-size: 12px&quot; face=&quot;Helvetica&quot;&gt;Lord &lt;span class=&quot;markedContent&quot; id=&quot;page3R_mcid11&quot;&gt;&lt;span style=&quot;left: 120px ; top: 66.2621px ; transform: scalex(0.883894)&quot; dir=&quot;ltr&quot;&gt;Strahd Atanase Bustravix&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="79dwMIcLpbFR8tdssObi-2" value="TS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2705" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="2705" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="79dwMIcLpbFR8tdssObi-3" value="S" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2845" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="2845" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="79dwMIcLpbFR8tdssObi-4" value="CUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2985" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="2985" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="79dwMIcLpbFR8tdssObi-5" value="U" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3125" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="3125" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="79dwMIcLpbFR8tdssObi-7" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Lowborn&lt;/li&gt;&lt;li&gt;Was apart of the former Duke&#39;s militia&lt;/li&gt;&lt;li&gt;Married the Duke&#39;s Daughter&lt;/li&gt;&lt;li&gt;Plagued sweep through the land that caused many deaths&lt;/li&gt;&lt;li&gt;Wife and kids died during that time&lt;/li&gt;&lt;li&gt;Does not show his face outside anymore expect for parties at night&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2985" y="200" width="120" height="350" as="geometry" />
+          <mxGeometry x="2985" y="420" width="120" height="350" as="geometry" />
         </mxCell>
         <mxCell id="79dwMIcLpbFR8tdssObi-8" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Dominic tricked Strahd in order to stop the plagued&lt;/li&gt;&lt;li&gt;Sacrificed&amp;nbsp;&amp;nbsp; his wife and kids in a ritual to become a higher level being&lt;/li&gt;&lt;li&gt;Mother is dead but kids are still &quot;alive&quot;&lt;/li&gt;&lt;li&gt;Has many connections to the celler &lt;br&gt;&lt;/li&gt;&lt;li&gt;Enthralled Leo&#39;s dad after attacking their village&lt;/li&gt;&lt;li&gt;Was looking for a renown healer in hopes they could cure his kids&lt;/li&gt;&lt;li&gt;Developing a new chemical that mimics the plague &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2845" y="200" width="120" height="470" as="geometry" />
+          <mxGeometry x="2845" y="420" width="120" height="470" as="geometry" />
         </mxCell>
         <mxCell id="79dwMIcLpbFR8tdssObi-9" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Dominic pushed the blame on the other celestials &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2705" y="200" width="120" height="350" as="geometry" />
+          <mxGeometry x="2705" y="420" width="120" height="350" as="geometry" />
         </mxCell>
         <mxCell id="79dwMIcLpbFR8tdssObi-10" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;One of the four lords&lt;/li&gt;&lt;li&gt;Provides Ore and metals to the kingdom with his mines&lt;/li&gt;&lt;li&gt;Has an observitory in the moutains&lt;/li&gt;&lt;li&gt;Also brings scienctific research to the kingdom&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3125" y="200" width="120" height="350" as="geometry" />
+          <mxGeometry x="3125" y="420" width="120" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="79dwMIcLpbFR8tdssObi-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdnb.artstation.com/p/assets/images/images/018/443/809/large/ricardo-herrera-concepto-cabellero-negro-dragon-avatar.jpg;" vertex="1" parent="1">
+          <mxGeometry x="3025.77" y="10" width="219.23" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="79dwMIcLpbFR8tdssObi-12" value="&lt;ul&gt;&lt;li&gt;Human Vampire&lt;/li&gt;&lt;li&gt;6ft tall&lt;/li&gt;&lt;li&gt;170 Pounds&lt;/li&gt;&lt;li&gt;Black Haired&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2705" y="10" width="305" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
