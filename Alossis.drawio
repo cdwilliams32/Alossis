@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T22:11:33.812Z" agent="5.0 (Windows)" etag="Xum6ZJIe6GUF0VGPl7xc" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T00:02:18.287Z" agent="5.0 (Windows)" etag="3yd1-X4Ss6MOxad8NPIT" version="17.4.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1673" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="2581" math="0" shadow="0">
+    <mxGraphModel dx="1580" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="2581" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -573,7 +573,16 @@
         <mxCell id="BMSPjfVfwommTCz05lxM-191" value="Criella&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;(K) Orphan&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;(K) Hated by village for being a Tiefling&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;(UK) Cursed by being an offspring of Lord Strahd&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;(K) Forced into army by Lord Smith&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;(K) Ordered to destroy village with her powers but defend&amp;nbsp;it instead&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=13;fontColor=default;strokeWidth=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="2198.8" y="1430" width="125" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="BMSPjfVfwommTCz05lxM-198" value="Travok&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Born in Lightning Storm&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Mom killed giving birth&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Dad died defending him&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Kord killed them both&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Wants to kill Kord&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Found love at 54, wed, and had two kids.&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K)&amp;nbsp; Kord killed the wife and kids&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Sehanine taught him the ways of the Circle of the Moon&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Lives in Hauflin Forest&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Raised by Bears&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=13;fontColor=default;strokeWidth=1;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="ByryqMUNPRfWIRXirwUa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="BMSPjfVfwommTCz05lxM-198" target="ByryqMUNPRfWIRXirwUa-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3330" y="1680" />
+              <mxPoint x="3455" y="1680" />
+              <mxPoint x="3455" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMSPjfVfwommTCz05lxM-198" value="Travok&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Born in Lightning Storm&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Mom killed giving birth&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Dad died defending him&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Kord killed them both&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Wants to kill Kord&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Found love at 54, wed, and had two kids.&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K)&amp;nbsp; Kord killed the wife and kids&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Sehanine taught him the ways of the Circle of the Moon&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Lives in Hauflin Forest&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Raised by Bears&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Is with &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=13;fontColor=default;strokeWidth=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="3210" y="1590" width="120" height="530" as="geometry" />
         </mxCell>
         <mxCell id="BMSPjfVfwommTCz05lxM-208" value="Leo&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Grown up in elven city by the coast&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Village was attacked by an unknown group&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(UK) Lord Strahd attacked the village looking for a healer&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Dad stayed and fought but was never seen again&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Separated from mom and sister while fleeing&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(K) Became a bard to earn money and to gain fame in hopes of finding his family&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=13;fontColor=default;strokeWidth=1;fillColor=default;" parent="1" vertex="1">
@@ -593,6 +602,12 @@
         </mxCell>
         <mxCell id="Fj1rsP363tf5vaqWqIAK-8" value="Leo&#39;s Sister&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;(UK) Suppressed her memory of fleeing her village and being separated from here family&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(UK) Is a member of the church to escape the streets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;(UK) Seeing Leo may trigger all these memories to come back&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="3359.8" y="960" width="120" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ByryqMUNPRfWIRXirwUa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.986;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="ByryqMUNPRfWIRXirwUa-1" target="BMSPjfVfwommTCz05lxM-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ByryqMUNPRfWIRXirwUa-1" value="&lt;div&gt;IV&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Fucks her panther&lt;/li&gt;&lt;li&gt;Now with travok&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3580" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
